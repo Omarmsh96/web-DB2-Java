@@ -1,11 +1,7 @@
 
 /**
-Aufgabe Nr./Task No.: H5
-Nachname/Last,Family Name:Hassan
-Vorname/First,Given Name: Omar
-Matrikelnummer/Matriculation number: 3071001
-Uni-Email: hassan.omar@stud.uni-due.de
-Studiengang/Course of Studies: ISE software engineering
+
+Studiengang/Course of Studies: software engineering
 *************************************************/
 #include <iostream>
 #include <string>
